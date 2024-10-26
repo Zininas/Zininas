@@ -28,4 +28,6 @@ I am Aleksandr Zinin, IOS developer.
 
 ### Certificates and diplomas
 
+- Junior iOS-Developer https://github.com/Zininas/Zininas/blob/main/certificate-9.pdf
 - IOS-разработчик https://github.com/Zininas/Zininas/blob/main/certificate.pdf
+
