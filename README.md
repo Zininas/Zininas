@@ -1,16 +1,18 @@
-### Привет!
+### Hi!
 
-Я Александр Зинин, IOS разработчик.
+I am Aleksandr Zinin, IOS developer.
 
-### КЛЮЧЕВЫЕ КОМПЕТЕНЦИИ:
+### KEY COMPETENCIES:
 
-- Программирование на Swift
+- Swift Programming Basics.
 
-- Применение объектно-ориентированного дизайна
+- Working with the user interface. UIKit.
 
-- Создание адаптивного интерфейса приложения и работа с анимацией
+- Working with data and network.
 
-- Работа с GIT
+- SwiftUI
+
+- Architectural patterns.
 
 ### ИНСТРУМЕНТЫ:
 
@@ -24,10 +26,6 @@
 
 - UIKit
 
-### Вот, что я умею
-
-- Дипломный проект на языке Swift https://github.com/Zininas/ios-homeworks/tree/Graduation-project 
-
-### Сертификаты Нетологии
+### Certificates and diplomas
 
 - IOS-разработчик https://github.com/Zininas/Zininas/blob/main/certificate.pdf
