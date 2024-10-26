@@ -2,7 +2,7 @@
 
 I am Aleksandr Zinin, IOS developer.
 
-### KEY COMPETENCIES:
+### Key competencies:
 
 - Swift Programming Basics.
 
@@ -14,7 +14,7 @@ I am Aleksandr Zinin, IOS developer.
 
 - Architectural patterns.
 
-### ИНСТРУМЕНТЫ:
+### Tools:
 
 - Swift
 
